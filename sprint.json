@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Braden Skiffington",
+        "age": 21,
+        "hometown": "Bonavista",
+        "email": "braden.skiffington@keyin.com"
+    },
+    {
+        "name": "Nathanial Lane",
+        "age": 20,
+        "hometown": "GFW",
+        "email": "nathanial.lane@keyin.com"
+    },
+    {
+        "name": "Dawson Murray",
+        "age": 20,
+        "hometown": "Badger",
+        "email": "dawson.murray@keyin.com"
+    },
+    {
+        "name": "Noah Gillard",
+        "age":  21,
+        "hometown": "Torbay",
+        "email": "noah.gillard@keyin.com"
+    },
+    {
+        "name": "Matt Young",
+        "age": 32,
+        "hometown": "St.John's",
+        "email": "matt.young@keyin.com"
+    },
+    {
+        "name": "Zimuzov Akanne",
+        "age": 22,
+        "hometown": "Bay Bulls",
+        "email": "zimuzov.akanne@keyin.com"
+    }
+]
